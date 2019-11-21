@@ -1,5 +1,5 @@
 {
-    "name": "rfb",
+    "name": "@icebob/rfb",
     "version": "0.2.3",
     "description": "Implements the client-side of the rfb protocol that vnc uses",
     "author" : "James Halliday <mail@substack.net> (http://substack.net)",
